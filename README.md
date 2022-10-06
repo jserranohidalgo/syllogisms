@@ -10,6 +10,7 @@ types and dependent types, allow us to model these logical arguments, and how ty
 behind their corresponding proofs.
 
 <img src="images/tablesyllogisms.png" alt="drawing" width="400"/>
+
 Full list of valid [syllogisms](https://en.wikipedia.org/wiki/Syllogism#Types)
 
 Feel free to contribute!
