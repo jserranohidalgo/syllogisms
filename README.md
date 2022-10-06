@@ -1,6 +1,6 @@
 ## Aristotelian syllogisms in Scala 3
 
-[aristotle](images/aristotle.png)
+<img src="images/aristotle.png" alt="drawing" width="300"/>
 
 This repository aims at explaining some features of the Scala 3 type system using Aristotelian syllogisms.
 In particular, it shows how signatures built upon traits, algebraic data types and dependent types, allow us to model 
