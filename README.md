@@ -1,11 +1,15 @@
 ## Aristotelian syllogisms in Scala 3
 
+[aristotle](images/aristotle.png)
+
 This repository aims at explaining some features of the Scala 3 type system using Aristotelian syllogisms.
-In particular, it shows how signatures built upon traits, algebraic data types and dependent types allow us to model 
+In particular, it shows how signatures built upon traits, algebraic data types and dependent types, allow us to model 
 these logical arguments, and how type-driven development mimics the logical reasoning behind their 
 corresponding proofs.
 
-Full list of Aristotelian syllogisms: https://en.wikipedia.org/wiki/Syllogism#Types
+Full list of valid syllogisms (taken from [wikipedia](https://en.wikipedia.org/wiki/Syllogism#Types)):
+[syllogisms](images/syllogisms.png)
 
-WIP.
+Feel free to contribute!
+
 
