@@ -9,8 +9,8 @@ we can formalize Aristotle's syllogisms using Scala 3. In particular, it shows h
 types and dependent types, allow us to model these logical arguments, and how type-driven development mimics the logical reasoning 
 behind their corresponding proofs.
 
+<img src="images/tablesyllogisms.png" alt="drawing" width="400"/>
 Full list of valid syllogisms (taken from [wikipedia](https://en.wikipedia.org/wiki/Syllogism#Types)):
-[syllogisms](images/syllogisms.png)
 
 Feel free to contribute!
 
