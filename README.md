@@ -10,8 +10,8 @@ types and dependent types, allow us to model these logical arguments, and how ty
 behind their corresponding proofs.
 
 <img src="images/tablesyllogisms.png" alt="drawing" width="400"/>
-Full list of valid syllogisms (taken from [wikipedia](https://en.wikipedia.org/wiki/Syllogism#Types)):
+Full list of valid [syllogisms](https://en.wikipedia.org/wiki/Syllogism#Types)
 
 Feel free to contribute!
 
-
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
